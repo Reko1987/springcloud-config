@@ -32,7 +32,7 @@ info:
   build.artifactId: $project.artifactId$
   build.version: $project.version$
   
- ---
+---
   
 server:
   port: 8002  #配置端口
